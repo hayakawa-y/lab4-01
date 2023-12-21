@@ -1,5 +1,3 @@
-[19:15] HONGYU FU
-.github/ISSUE TEMPLATE
 name: Bug Report
 description: File a bug report
 title: "[Bug]: "
