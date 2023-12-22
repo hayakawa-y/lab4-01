@@ -4,13 +4,13 @@ title: "[Bug]: "
 labels: ["bug","triage"]
 projects: ["octo-org/1","octo-org/44"]
 assignees:
- -octocat
+ - octocat
  body:
- -type: markdown
+ - type: markdown
  attributes:
  value: |
 Thanks for taking the time to fill out this bug report!
-type: input
+- type: input
 id: contact
 attributes:
 label: Contact Details
